@@ -5,12 +5,14 @@
 This project is a lightweight bus tracker app I created using Google Gemini 3 inside AI Studio. The goal was to explore the model’s powerful capabilities—especially its ability to generate clean code, structure UI components, and handle real‑time style interactions.
 The app features a clean, minimal, and visually appealing interface designed to make the experience intuitive and smooth. It’s a small experiment, but a great demonstration of how quickly Gemini 3 can help prototype functional, user‑friendly tools.
 
+📸 Preview
+## Below is a screenshot of the app running inside Google AI Studio.
+This gives a quick visual overview of the interface and how the bus tracker works.
 
-# Run and deploy your AI Studio app
+**App Preview**
 
-This contains everything you need to run your app locally.
+<img width="1917" height="932" alt="Screenshot 2025-11-27 015158" src="https://github.com/user-attachments/assets/fa5ea43b-f595-42a1-a413-8bb6d93ac090" />
 
-View your app in AI Studio: https://aistudio.google.com/apps/temp/1?showAssistant=true&showPreview=true&fullscreenApplet=true
 
 ## Run Locally
 
