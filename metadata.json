@@ -1,0 +1,8 @@
+{
+  "name": "OmniBus Tracker",
+  "description": "A real-time, AI-enhanced bus tracking system connecting passengers and drivers with live updates and smart assistance.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
