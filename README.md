@@ -10,7 +10,7 @@ The app features a clean, minimal, and visually appealing interface designed to 
 
 This contains everything you need to run your app locally.
 
-View your app in AI Studio: https://ai.studio/apps/temp/1
+View your app in AI Studio: https://aistudio.google.com/apps/temp/1?showAssistant=true&showPreview=true&fullscreenApplet=true
 
 ## Run Locally
 
